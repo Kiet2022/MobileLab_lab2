@@ -14,13 +14,14 @@ export default styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    padding: 10
+    padding: 10,
+    backgroundColor: "#E6E6E6",
   },
 
   container_result: {
     flex: 1,
-    backgroundColor: 'red',
-    width: '100%'
+    width: '100%',
+    alignItems: 'center',
   },
   container_keyboard: {
     flex: 1,
@@ -41,9 +42,7 @@ export default styles = StyleSheet.create({
     backgroundColor: "white",
     width: '100%',
 
-    fontSize: 25,
-    fontWeight: 'bold',
-    color: 'black',
+   
 
   },
   button_param2:{
@@ -56,9 +55,6 @@ export default styles = StyleSheet.create({
     backgroundColor: "white",
     width: '100%',
 
-    fontSize: 25,
-    fontWeight: 'bold',
-    color: 'black',
   },
 /*   buttonText_param: {
     fontSize: 25,
@@ -73,12 +69,9 @@ export default styles = StyleSheet.create({
     alignItems: 'center',
     padding: 12,
     marginTop: 16,
-    backgroundColor: "silver",
+    backgroundColor: "#DBDBDB",
     width: '100%',
 
-    fontSize: 25,
-    fontWeight: 'bold',
-    color: 'orange'
   },
 /*   buttonText_operation: {
     fontSize: 25,
@@ -94,22 +87,22 @@ export default styles = StyleSheet.create({
     padding: 12,
     marginTop: 16,
 
-    fontSize: 16,
-    fontWeight: 'bold',
-    color: 'white',
   },
   buttonText_default: {
-    fontSize: 16,
+    fontSize: 20,
     fontWeight: 'bold'
   }, 
   buttonText_operate: {
-    fontSize: 16,
+    fontSize: 20,
     fontWeight: 'bold',
     color: 'orange',
   }, 
   buttonText_cal: {
-    fontSize: 16,
+    fontSize: 20,
     fontWeight: 'bold',
     color: 'white',
   }, 
+  resultText:{
+    fontSize: 50
+  }
 });
