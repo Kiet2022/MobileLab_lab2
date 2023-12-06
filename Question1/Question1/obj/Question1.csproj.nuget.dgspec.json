@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\references\\MobileProgramming\\lab\\Code\\Mobile_lab2\\MobileLab_lab2\\Question1\\Question1\\Question1.csproj": {}
+    "D:\\references\\MobileProgramming\\lab\\Code\\MobileLab_lab2\\Question1\\Question1\\Question1.csproj": {}
   },
   "projects": {
-    "D:\\references\\MobileProgramming\\lab\\Code\\Mobile_lab2\\MobileLab_lab2\\Question1\\Question1\\Question1.csproj": {
+    "D:\\references\\MobileProgramming\\lab\\Code\\MobileLab_lab2\\Question1\\Question1\\Question1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\references\\MobileProgramming\\lab\\Code\\Mobile_lab2\\MobileLab_lab2\\Question1\\Question1\\Question1.csproj",
+        "projectUniqueName": "D:\\references\\MobileProgramming\\lab\\Code\\MobileLab_lab2\\Question1\\Question1\\Question1.csproj",
         "projectName": "Question1",
-        "projectPath": "D:\\references\\MobileProgramming\\lab\\Code\\Mobile_lab2\\MobileLab_lab2\\Question1\\Question1\\Question1.csproj",
+        "projectPath": "D:\\references\\MobileProgramming\\lab\\Code\\MobileLab_lab2\\Question1\\Question1\\Question1.csproj",
         "packagesPath": "C:\\Users\\TRAN TUAN KIET\\.nuget\\packages\\",
-        "outputPath": "D:\\references\\MobileProgramming\\lab\\Code\\Mobile_lab2\\MobileLab_lab2\\Question1\\Question1\\obj\\",
+        "outputPath": "D:\\references\\MobileProgramming\\lab\\Code\\MobileLab_lab2\\Question1\\Question1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TRAN TUAN KIET\\AppData\\Roaming\\NuGet\\NuGet.Config",
